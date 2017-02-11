@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/jaunt1.2.6/jaunt1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/jaunt1.2.6/javadocs"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/workspace/LoginModule/sqljdbc42.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
