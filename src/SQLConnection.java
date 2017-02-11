@@ -5,7 +5,7 @@ public class SQLConnection {
 	static{
 	try{
 		Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-		connection=DriverManager.getConnection("jdbc:sqlserver://localhost;database=SFE;integratedsecurity=true","sa","noclue");
+		connection=DriverManager.getConnection("jdbc:sqlserver://localhost;database=SFE;integratedsecurity=true","***","******");
 	}
 	catch(Exception ex)
 	{
